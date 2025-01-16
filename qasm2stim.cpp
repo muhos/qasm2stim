@@ -1,7 +1,6 @@
 /*
-	Muhammad Osama Mahmoud, 2024.
-	A fast tool to convert OpenQASM v2 to Stim format.
-    Limited to Clifford gates.
+A fast tool to convert OpenQASM v2 to Stim format.
+Limited to Clifford gates.
 */
 
 #include <iostream>
